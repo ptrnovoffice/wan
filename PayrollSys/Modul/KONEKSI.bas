@@ -104,7 +104,7 @@ Public Sub Main()
   StrCon = "DRIVER={MySQL ODBC 5.1 Driver};" _
         & "Persist Security Info=False;" _
         & "SERVER=" & strServer & ";UID=root;port=3306;" _
-        & "PWD=Sp1d3rm4n4;DATABASE=attpayroll_040915;" _
+        & "PWD=Sp1d3rm4n4;DATABASE=attpayroll;" _
         & "OPTION=" & 1 + 2 + 8 + 32 + 2048 + 163841
          
         
